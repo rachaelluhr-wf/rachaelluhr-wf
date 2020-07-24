@@ -1,4 +1,6 @@
-### Hi there 👋
+Senior Software Engineer :computer: at Workiva :green_heart: in Bozeman, MT :sunrise_over_mountains:
+
+Link to my [Personal User Manual](https://docs.google.com/presentation/d/1OZbLRSw7RjWxSbrG95lreOn7XOZW7r63VC2P6q2YL3Y/edit?usp=sharing)
 
 <!--
 **rachaelluhr-wf/rachaelluhr-wf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
